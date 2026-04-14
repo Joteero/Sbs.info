@@ -13,7 +13,7 @@ email = "arjadiy.parovozov@31rins.ru"
 password = "228322"
 email_admin = "miss_kate@s3bs.com"
 password_admin = "baltika_9"
-email_2 = "maria.gorilla@sb3rins.ru"
+email_2 = "vladimir.butin@sb3rins.ru"
 password_2 = "baltika_0!"
 
 # StaticMethod
